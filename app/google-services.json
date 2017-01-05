@@ -1,0 +1,51 @@
+{
+  "project_info": {
+    "project_number": "821971206016",
+    "firebase_url": "https://mchat-51f37.firebaseio.com",
+    "project_id": "mchat-51f37",
+    "storage_bucket": "mchat-51f37.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:821971206016:android:13fb05336468dcf3",
+        "android_client_info": {
+          "package_name": "com.example.moham.ychat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "821971206016-j508dt48kq17g3fkrnngkjd2e03h51ri.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.moham.ychat",
+            "certificate_hash": "01BCD94AAB25B12ADAF9AD5C6293007CDCE4CA83"
+          }
+        },
+        {
+          "client_id": "821971206016-njeau29tb61vm6v7iohfcdbmfp4g1o61.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "821971206016-njeau29tb61vm6v7iohfcdbmfp4g1o61.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Ychat</string>
+    <string name="login_hint">Login</string>
+    <string name="create_account">Create Account</string>
+    <string name="email_hint">Phone Number:</string>
+    <string name="password_hint">Password:</string>
+    <string name="forget_password">Forget password</string>
+    <string name="joinus">Join Us!</string>
+    <string name="singup">Sign Up?</string>
+    <string name="regidter_hint">Register </string>
+</resources>
